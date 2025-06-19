@@ -2,7 +2,7 @@
 
 <section class="page_contents">
 	<div class="container">
-		<h2 class="title_01 txt_c">Cases for custom</h2>
+		<h2 class="title_01 txt_c">GALLEY</h2>
 		<div class="case_archive">
 			<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 			<article class="case_archive_box">

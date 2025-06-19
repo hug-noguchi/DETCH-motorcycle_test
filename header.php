@@ -66,10 +66,9 @@ wp_title(); ?></title>
 		<nav id="global_menu" class="home_menu">
 			<ul>
 				<li><a href="#top">Home</a></li>
-				<li><a href="#sale">For sale</a></li>
-				<li><a href="#about">About us</a></li>
-				<li><a href="#case">Cases for custom</a></li>
+				<li><a href="#case">GALLEY</a></li>
 				<li><a href="#access">Access</a></li>
+				<li><a href="#about">About us</a></li>
 				<li><a href="#contact">Contact</a></li>
 			</ul>
 		</nav>
@@ -77,10 +76,9 @@ wp_title(); ?></title>
 		<nav id="global_menu">
 			<ul>
 				<li><a href="<?php echo esc_url(home_url('/')); ?>">Home</a></li>
-				<li><a href="<?php echo esc_url(home_url('')); ?>#sale">For sale</a></li>
-				<li><a href="<?php echo esc_url(home_url('')); ?>#about">About us</a></li>
-				<li><a href="<?php echo esc_url(home_url('')); ?>#case">Cases for custom</a></li>
+				<li><a href="<?php echo esc_url(home_url('')); ?>#case">GALLEY</a></li>
 				<li><a href="<?php echo esc_url(home_url('')); ?>#access">Access</a></li>
+				<li><a href="<?php echo esc_url(home_url('')); ?>#about">About us</a></li>
 				<li><a href="<?php echo esc_url(home_url('')); ?>#contact">Contact</a></li>
 			</ul>
 		</nav>
